@@ -212,7 +212,7 @@ elseif get_hidden_gui then EzHub.EzHub.Parent = get_hidden_gui(); end
 
 do
 
-	EzHub.EzHub.Name = "EzHub"
+	EzHub.EzHub.Name = "Hz Hub"
 	EzHub.EzHub.Parent = game.CoreGui
 
 	EzHub.MainFrame.Name = "MainFrame"
